@@ -1,10 +1,10 @@
 {
   "name": "Migraine Diary",
   "short_name": "Migraine Diary",
-  "start_url": "",
+  "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#1e1e1e",
+  "background_color": "#1e1e1e",
   "icons": [
     {
       "src": "icon.png",
@@ -19,4 +19,5 @@
       "purpose": "any maskable"
     }
   ]
+
 }
