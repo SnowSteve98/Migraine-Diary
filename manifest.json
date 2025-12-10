@@ -1,7 +1,7 @@
 {
   "name": "Migraine Diary",
   "short_name": "Migraine Diary",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#1e1e1e",
   "background_color": "#1e1e1e",
@@ -21,3 +21,4 @@
   ]
 
 }
+
